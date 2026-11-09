@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+<rect width="1000" height="600" fill="#fafaf7"/>
+<rect x="10" y="10" width="980" height="580" fill="none" stroke="#333" stroke-width="6"/>
+<g stroke="#333" stroke-width="3" fill="none">
+<line x1="650" y1="10" x2="650" y2="330"/><line x1="650" y1="330" x2="990" y2="330"/><line x1="10" y1="400" x2="650" y2="400"/><line x1="650" y1="400" x2="650" y2="590"/></g>
+<g font-family="Arial,sans-serif" font-size="20" fill="#666">
+<text x="30" y="40">Open space</text><text x="670" y="40">Salle de réunion</text><text x="670" y="360">Direction</text><text x="30" y="430">Équipe projet</text><text x="670" y="430">Détente</text></g>
+<rect x="700" y="80" width="240" height="160" rx="8" fill="#e6edf3" stroke="#889"/>
+<rect x="700" y="450" width="240" height="110" rx="8" fill="#eef3e6" stroke="#898"/>
+<rect x="48" y="86" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="143" y="86" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="238" y="86" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="333" y="86" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="428" y="86" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="523" y="86" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="48" y="166" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="143" y="166" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="238" y="166" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="333" y="166" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="428" y="166" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="523" y="166" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="48" y="246" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="143" y="246" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="238" y="246" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="333" y="246" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="428" y="246" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="523" y="246" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="68" y="446" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="158" y="446" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="248" y="446" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="338" y="446" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="428" y="446" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="518" y="446" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="68" y="506" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="158" y="506" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="248" y="506" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="338" y="506" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="428" y="506" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="518" y="506" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+<rect x="698" y="376" width="44" height="28" rx="3" fill="#fff" stroke="#999"/>
+</svg>
